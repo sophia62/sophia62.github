@@ -124,44 +124,51 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Software Engineering Student | Robotics & Data Analytics | Project Manager\n\nsophiabeebe1@gmail.com | sophiabeebe.com | LinkedIn | GitHub\n\n\n\nUndergraduate Software Engineering student at Brigham Young University of Idaho, specializing in applied robotics, data analytics, and software architecture, with hands-on experience building full-stack and hardware-integrated systems.\n\n\nSoftware Engineering, Robotics Automation, Data Analytics, Project Management, Design Patterns, Embedded Systems, Python, C#, SwiftUI\n\n\n\n\n2021 – Present\nBrigham Young University–Idaho\nBachelor of Science, Software Engineering\n\nMinor: Data Analytics\n\nMinor: Intercultural Studies\n\nPresident, Interdisciplinary Studies Club\n\n\n\n\n2024 – 2025\nFolding Clothes Robot (Capstone Project)\n\nDesigned and built a multi-phase robotic system capable of folding garments\n\nImplemented servo and stepper motor control using Arduino and Python\n\nIntegrated mechanical design, electronics, and software architecture\n\nExplored real-world constraints such as torque limits, safety, and repeatability\n\nDeveloped two robotic approaches and evaluated tradeoffs between them\n\n2025\nSun Buddy (iOS Application Prototype)\n\nBuilt a SwiftUI prototype for tracking daily sunlight exposure\n\nDesigned custom UI components including progress rings and dashboards\n\nFocused on wellness, behavioral design, and data visualization\n\n2025\nHackathon Project – Intelligent Task & Routine Assistant\n\nCollaborated on a rapid-development software project focused on improving executive function and daily task management\n\nDesigned and implemented core features under a strict time constraint, prioritizing usability and functional scope\n\nApplied software engineering principles to break down requirements, assign tasks, and deliver a working prototype\n\nIntegrated data handling and logic to support task tracking, prioritization, and user interaction\n\nPresented the final product with a live demo, explaining technical decisions and future scalability\n\n\n\n\n2023 – Present\nTeaching Assistant, BYU–Idaho\n\nAssisted students with HTML, CSS, Python, R, GitHub workflows, and debugging\n\nLed in-class demonstrations and one-on-one mentoring\n\nSupported grading, rubrics, and project evaluations\n\n2024\nProject Manager (Academic)\n\nElected as Project Manager for a 21-person software engineering class project\n\nLed the end-to-end planning and execution of a large-scale ride-share application\n\nAuthored a 200+ page architectural design document detailing system architecture, data flow, APIs, security, and scalability considerations\n\nCoordinated cross-functional teams, resolved scope and timeline challenges, and maintained alignment with academic and technical requirements\n\nDelivered the project at the highest quality level, earning the highest grade ever awarded in the course\n\n\n\n\n\nLanguages: Python, C#, R, Swift, SQL, HTML/CSS\n\nTools: Git/GitHub, Arduino, Firebase, ROS concepts, Xcode, RStudio\n\nConcepts: Software architecture, data analysis, robotics control, UI design\n\nSoft Skills: Technical communication, mentoring, leadership, project planning\n\n\n\n\n\nPresident, Interdisciplinary Studies Club\n\nCertified Yoga Teacher\n\nAcademic Project Leadership Recognition"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Undergraduate Software Engineering student at Brigham Young University of Idaho, specializing in applied robotics, data analytics, and software architecture, with hands-on experience building full-stack and hardware-integrated systems.\n\n\nSoftware Engineering, Robotics Automation, Data Analytics, Project Management, Design Patterns, Embedded Systems, Python, C#, SwiftUI"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2021 – Present\nBrigham Young University–Idaho\nBachelor of Science, Software Engineering\n\nMinor: Data Analytics\n\nMinor: Intercultural Studies\n\nPresident, Interdisciplinary Studies Club"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "2024 – 2025\nFolding Clothes Robot (Capstone Project)\n\nDesigned and built a multi-phase robotic system capable of folding garments\n\nImplemented servo and stepper motor control using Arduino and Python\n\nIntegrated mechanical design, electronics, and software architecture\n\nExplored real-world constraints such as torque limits, safety, and repeatability\n\nDeveloped two robotic approaches and evaluated tradeoffs between them\n\n2025\nSun Buddy (iOS Application Prototype)\n\nBuilt a SwiftUI prototype for tracking daily sunlight exposure\n\nDesigned custom UI components including progress rings and dashboards\n\nFocused on wellness, behavioral design, and data visualization\n\n2025\nHackathon Project – Intelligent Task & Routine Assistant\n\nCollaborated on a rapid-development software project focused on improving executive function and daily task management\n\nDesigned and implemented core features under a strict time constraint, prioritizing usability and functional scope\n\nApplied software engineering principles to break down requirements, assign tasks, and deliver a working prototype\n\nIntegrated data handling and logic to support task tracking, prioritization, and user interaction\n\nPresented the final product with a live demo, explaining technical decisions and future scalability"
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "2023 – Present\nTeaching Assistant, BYU–Idaho\n\nAssisted students with HTML, CSS, Python, R, GitHub workflows, and debugging\n\nLed in-class demonstrations and one-on-one mentoring\n\nSupported grading, rubrics, and project evaluations\n\n2024\nProject Manager (Academic)\n\nElected as Project Manager for a 21-person software engineering class project\n\nLed the end-to-end planning and execution of a large-scale ride-share application\n\nAuthored a 200+ page architectural design document detailing system architecture, data flow, APIs, security, and scalability considerations\n\nCoordinated cross-functional teams, resolved scope and timeline challenges, and maintained alignment with academic and technical requirements\n\nDelivered the project at the highest quality level, earning the highest grade ever awarded in the course"
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Sophia Beebe – CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Languages: Python, C#, R, Swift, SQL, HTML/CSS\n\nTools: Git/GitHub, Arduino, Firebase, ROS concepts, Xcode, RStudio\n\nConcepts: Software architecture, data analysis, robotics control, UI design\n\nSoft Skills: Technical communication, mentoring, leadership, project planning"
+  },
+  {
+    "objectID": "resume.html#awards-leadership",
+    "href": "resume.html#awards-leadership",
+    "title": "Sophia Beebe – CV",
+    "section": "",
+    "text": "President, Interdisciplinary Studies Club\n\nCertified Yoga Teacher\n\nAcademic Project Leadership Recognition"
   },
   {
     "objectID": "Machine_Learning/project5.html",
