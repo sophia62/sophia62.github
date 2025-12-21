@@ -1,89 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sophia Beebe – CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sophia Beebe
+Software Engineering Student | Robotics & Data Analytics | Project Manager
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:sophiabeebe1@gmail.com">sophiabeebe1@gmail.com</a>
+| <a href="https://sophiabeebe.com">sophiabeebe.com</a>
+| <a href="https://www.linkedin.com/in/sophia10">LinkedIn</a>
+| <a href="https://github.com/sophia62">GitHub</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Undergraduate Software Engineering student at Brigham Young University of Idaho, specializing in applied robotics, data analytics, and software architecture, with hands-on experience building full-stack and hardware-integrated systems.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Software Engineering, Robotics Automation, Data Analytics, Project Management, Design Patterns, Embedded Systems, Python, C#, SwiftUI
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 – Present`  
+__Brigham Young University–Idaho__  
+Bachelor of Science, Software Engineering 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Minor: Data Analytics  
+- Minor: Intercultural Studies  
+- President, Interdisciplinary Studies Club  
 
-- Sizar
+## Projects
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2024 – 2025`  
+__Folding Clothes Robot (Capstone Project)__  
 
-- Fellow
+- Designed and built a multi-phase robotic system capable of folding garments  
+- Implemented servo and stepper motor control using Arduino and Python  
+- Integrated mechanical design, electronics, and software architecture  
+- Explored real-world constraints such as torque limits, safety, and repeatability  
+- Developed two robotic approaches and evaluated tradeoffs between them  
 
+`2025`  
+__Sun Buddy (iOS Application Prototype)__  
 
+- Built a SwiftUI prototype for tracking daily sunlight exposure  
+- Designed custom UI components including progress rings and dashboards  
+- Focused on wellness, behavioral design, and data visualization  
 
-## Awards
+`2025`  
+__Hackathon Project – Intelligent Task & Routine Assistant__  
 
-`2012`
-President, *Royal Society*, London, UK
+- Collaborated on a rapid-development software project focused on improving executive function and daily task management  
+- Designed and implemented core features under a strict time constraint, prioritizing usability and functional scope  
+- Applied software engineering principles to break down requirements, assign tasks, and deliver a working prototype  
+- Integrated data handling and logic to support task tracking, prioritization, and user interaction  
+- Presented the final product with a live demo, explaining technical decisions and future scalability
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`2023 – Present`  
+__Teaching Assistant__, BYU–Idaho  
 
+- Assisted students with HTML, CSS, Python, R, GitHub workflows, and debugging  
+- Led in-class demonstrations and one-on-one mentoring  
+- Supported grading, rubrics, and project evaluations  
 
-## Publications
+`2024`  
+__Project Manager (Academic)__  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Elected as Project Manager for a 21-person software engineering class project  
+- Led the end-to-end planning and execution of a large-scale ride-share application  
+- Authored a 200+ page architectural design document detailing system architecture, data flow, APIs, security, and scalability considerations  
+- Coordinated cross-functional teams, resolved scope and timeline challenges, and maintained alignment with academic and technical requirements  
+- Delivered the project at the highest quality level, earning the highest grade ever awarded in the course
 
-### Journals
+## Skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- **Languages:** Python, C#, R, Swift, SQL, HTML/CSS  
+- **Tools:** Git/GitHub, Arduino, Firebase, ROS concepts, Xcode, RStudio  
+- **Concepts:** Software architecture, data analysis, robotics control, UI design  
+- **Soft Skills:** Technical communication, mentoring, leadership, project planning  
 
-`1669`
-Lectiones opticæ.
+## Awards & Leadership
 
-etc. etc. etc.
+- President, Interdisciplinary Studies Club  
+- Certified Yoga Teacher  
+- Academic Project Leadership Recognition  
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- Last updated: 2025 -->
